@@ -1,0 +1,8 @@
+D:\Студент\Волков Плотникова\Semaphores\obj\Debug\Semaphores.csproj.AssemblyReference.cache
+D:\Студент\Волков Плотникова\Semaphores\obj\Debug\Semaphores.csproj.SuggestedBindingRedirects.cache
+D:\Студент\Волков Плотникова\Semaphores\obj\Debug\Semaphores.csproj.CoreCompileInputs.cache
+D:\Студент\Волков Плотникова\Semaphores\bin\Debug\Semaphores.exe.config
+D:\Студент\Волков Плотникова\Semaphores\bin\Debug\Semaphores.exe
+D:\Студент\Волков Плотникова\Semaphores\bin\Debug\Semaphores.pdb
+D:\Студент\Волков Плотникова\Semaphores\obj\Debug\Semaphores.exe
+D:\Студент\Волков Плотникова\Semaphores\obj\Debug\Semaphores.pdb
